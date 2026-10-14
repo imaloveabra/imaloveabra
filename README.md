@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi there, I'm Ima Love Abraham 👋
 
-<!--
-**imaloveabra/imaloveabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Aspiring Technical Writer from Benin City, Nigeria
+📚 Passionate about open source documentation & community
+🎯 Goal: Outreachy Intern - December 2026 to March 2027
 
-Here are some ideas to get you started:
+ About Me
+- ✍️ I love writing clear guides that help beginners understand tech
+- 🌱 Currently learning GitHub, Markdown, and open source contribution
+- 💬 Interested in: Documentation, Community Management, UX Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Learning
+- Git & GitHub basics
+- Technical writing and Markdown
+- How open source communities work
+
+ Let's Connect!
+- 📫 Email: imaloveabra@gmail.com
+- 💼 Open to collaborate on documentation projects!
+
+Thanks for visiting my profile! ✨*
